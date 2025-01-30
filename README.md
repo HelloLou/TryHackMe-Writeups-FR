@@ -1,2 +1,7 @@
-# TryHackMe-Writeups-FR
-Write ups des machines TryHackMe en Français
+# 🛡️ TryHackMe Write-Ups
+
+Ce dépôt contient mes write-ups de machines TryHackMe en Français.
+
+## 📌 Machines
+- [Lookup](Lookup/Lookup_Writeup.md)
+
