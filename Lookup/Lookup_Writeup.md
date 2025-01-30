@@ -2,8 +2,12 @@
 > **Difficulté** : Facile  
 > **OS** : Linux  
 > **Auteur** : HelloLou  
-> **Date** : 30/01/2025  
+> **Date** : 30/01/2025
+> 
+## 🔍 Introduction
+Ce write-up détaillé de la machine **Lookup** sur **TryHackMe** explique comment exploiter **elFinder PHP** pour obtenir un shell et escalader les privilèges jusqu'à `root`.
 
+Voici les outils necessaires: nmap, gobuster, burpsuite, metasploit, linpeas
 ---
 
 ## **🖥️ 1. Reconnaissance**  
