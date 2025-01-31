@@ -40,7 +40,7 @@ Pour résoudre les machines de TryHackMe, j’utilise une variété d’outils e
 
 ## 📂 Liste des Write-Ups 📜
 
-- [TryHackMe ICE](WriteUps/ICE/TryHackMe_Ice_WriteUp.md)  
+- [TryHackMe ICE](WriteUps/Ice/TryHackMe_Ice_WriteUp.md)  
   *Exploration d'une vulnérabilité dans le service Icecast permettant une exécution de code à distance.*
 
 - [TryHackMe Lookup](WriteUps/Lookup/TryHackMe_Lookup_WriteUp.md)  
