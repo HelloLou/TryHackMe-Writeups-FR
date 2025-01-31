@@ -40,10 +40,12 @@ Pour résoudre les machines de TryHackMe, j’utilise une variété d’outils e
 
 ## 📂 Liste des Write-Ups 📜
 
-Chaque write-up est accessible en un clic :
+- [TryHackMe ICE](WriteUps/ICE/TryHackMe_Ice_WriteUp.md)  
+  *Exploration d'une vulnérabilité dans le service Icecast permettant une exécution de code à distance.*
 
-- [TryHackMe ICE](WriteUps/TryHackMe_Ice_WriteUp.md)
-- [TryHackMe Lookup](WriteUps/TryHackMe_Lookup_WriteUp.md)
+- [TryHackMe Lookup](WriteUps/Lookup/TryHackMe_Lookup_WriteUp.md)  
+  *Analyse d'une application web vulnérable à une injection SQL menant à une compromission complète du système.*
+
 
 🚀 **Chaque nouvelle machine complétée sera ajoutée ici avec un lien direct !**
 
