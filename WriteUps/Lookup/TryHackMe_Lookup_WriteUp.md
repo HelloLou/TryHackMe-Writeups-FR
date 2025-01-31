@@ -1,8 +1,12 @@
-# **TryHackMe - Lookup Write-Up**  
-> **Difficulté** : Facile  
-> **OS** : Linux  
-> **Auteur** : HelloLou  
-> **Date** : 30/01/2025
+# 📌 Write-Up : Machine Lookup - TryHackMe
+
+## 🖥️ Informations Générales
+- **Nom de la machine** : Lookup
+- **Difficulté** : Facile
+- **Adresse IP** : *(variable selon l'instance TryHackMe)*
+- **Outils utilisés** : `nmap`, `gobuster`, `metasploit`, `Linpeas`
+- **Objectif** : Obtenir un accès user et root et récupérer les flags
+
 > 
 ## 🔍 Introduction
 Ce write-up détaillé de la machine **Lookup** sur **TryHackMe** explique comment exploiter **elFinder PHP** pour obtenir un shell et escalader les privilèges jusqu'à `root`.
