@@ -6,6 +6,6 @@ Bienvenue sur mon dépôt **TryHackMe Write-Ups** ! Vous y trouverez des write-u
 - **Utilisation d’outils comme Metasploit, LinPEAS, GTFOBins**
 
 ## 📌 Write-Ups Disponibles
-- [Lookup - TryHackMe Write-Up | Exploitation elFinder | Privilege Escalation](Lookup/Lookup_Writeup.md)
-
+- [Lookup Write-Up](WriteUps/TryHackMe_Lookup_WriteUp.md)
+- [Ice Write-Up](WriteUps/TryHackMe_Ice_WriteUp.md)
 ---
