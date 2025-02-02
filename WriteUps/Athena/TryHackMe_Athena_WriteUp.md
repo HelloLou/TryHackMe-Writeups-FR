@@ -1,5 +1,3 @@
-Bien sûr, je vais te fournir un **write-up détaillé** pour la machine **Athena** sur TryHackMe, en suivant le format du write-up précédent que tu as partagé. Ce guide te guidera à travers les étapes d'énumération, d'exploitation et d'élévation de privilèges pour obtenir les flags utilisateur et root.
-
 ---
 
 # Write-Up : Machine Athena - TryHackMe
