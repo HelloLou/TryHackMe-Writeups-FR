@@ -1,5 +1,3 @@
----
-
 # Write-Up : Machine Athena - TryHackMe
 
 ## 🖥️ Informations Générales
