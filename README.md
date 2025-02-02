@@ -46,6 +46,9 @@ Pour résoudre les machines de TryHackMe, j’utilise une variété d’outils e
 - [TryHackMe Lookup](WriteUps/Lookup/TryHackMe_Lookup_WriteUp.md)  
   *Analyse d'une application web vulnérable à une injection SQL menant à une compromission complète du système.*
 
+- [TryHackMe Athena](WriteUps/Athena/TryHackMe_Athena_WriteUp.md)  
+  *Analyse du site web Athena, injection SQL et élévation de privilèges.*
+
 
 🚀 **Chaque nouvelle machine complétée sera ajoutée ici avec un lien direct !**
 
