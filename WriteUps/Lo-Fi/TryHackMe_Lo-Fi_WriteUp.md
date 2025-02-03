@@ -1,4 +1,4 @@
-# 📌 Write Up : Lo-Fi TryHackMe (FR)  
+# 📌 Write-Up : Machine Lo-Fi - TryHackMe 
 
 ## 🖥️ Informations
 
