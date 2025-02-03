@@ -1,6 +1,6 @@
-# 📌 TryHackMe - Lo-Fi Write-Up (FR)  
+# 📌 Write Up : Lo-Fi TryHackMe (FR)  
 
-## 🛠 Informations
+## 🖥️ Informations
 
 - **Nom de la machine** : Lo-Fi
 - **Plateforme** : TryHackMe
