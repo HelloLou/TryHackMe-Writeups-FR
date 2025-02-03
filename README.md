@@ -49,6 +49,9 @@ Pour résoudre les machines de TryHackMe, j’utilise une variété d’outils e
 - [TryHackMe Athena](WriteUps/Athena/TryHackMe_Athena_WriteUp.md)  
   *Analyse du site web Athena, injection SQL et élévation de privilèges.*
 
+- [TryHackMe Athena](WriteUps/Lo-Fi/TryHackMe_Lo-Fi_WriteUp.md)  
+  *Analyse du site web Lo-Fi, inclusion de fichier local (LFI) et récupération de fichiers sensibles.*
+
 
 🚀 **Chaque nouvelle machine complétée sera ajoutée ici avec un lien direct !**
 
