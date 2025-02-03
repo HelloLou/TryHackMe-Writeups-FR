@@ -52,6 +52,10 @@ Pour résoudre les machines de TryHackMe, j’utilise une variété d’outils e
 - [TryHackMe Athena](WriteUps/Lo-Fi/TryHackMe_Lo-Fi_WriteUp.md)  
   *Analyse du site web Lo-Fi, inclusion de fichier local (LFI) et récupération de fichiers sensibles.*
 
+- [TryHackMe Silver Platter](WriteUps/Silver_Platter/TryHackMe_Silver_Platter_WriteUp.md)  
+  *Analyse du site web Silver Platter, exploitation web, élévation de privilèges et récupération des flags.*
+
+
 
 🚀 **Chaque nouvelle machine complétée sera ajoutée ici avec un lien direct !**
 
