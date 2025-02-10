@@ -1,6 +1,6 @@
 # 🔥 TryHackMe Write-Ups (FR) 🚀
 
-Bienvenue sur mon dépôt GitHub dédié aux **write-ups** de machines TryHackMe ! Ici, je documente en détail **chaque machine** que je résous, avec des explications pas à pas et des techniques utilisées pour apprendre et progresser en **cybersécurité offensive**. 🛡️💻
+Bienvenue sur mon dépôt GitHub dédié aux **write-ups** de machines TryHackMe ! Ici, je documente en détail **chaque machine** que je résous, avec des explications pas à pas et des techniques utilisées pour apprendre et progresser en **cybersécurité offensive**. 🛡️💻 Et bien sur tout cela en français.
 
 ---
 
